@@ -1,21 +1,13 @@
-MIT License
+The third parties are permitted to use the demodata but they are required to cite the following article:
 
-Copyright (c) 2025 hMRI-group
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Martina F. Callaghan, Antoine Lutti, John Ashburner, Evelyne Balteau, Nadège Corbin, Bogdan Draganski, Gunther Helms, Ferath Kherif, Tobias Leutritz, Siawoosh Mohammadi, Christophe Phillips, Enrico Reimer, Lars Ruthotto, Maryam Seif, Karsten Tabelow, Gabriel Ziegler, Nikolaus Weiskopf,
+- Example dataset for the hMRI toolbox,
+- Data in Brief,
+- Volume 25,
+- 2019,
+- 104132,
+- ISSN 2352-3409,
+- https://doi.org/10.1016/j.dib.2019.104132.
+- (https://www.sciencedirect.com/science/article/pii/S235234091930486X)
+- Abstract: The hMRI toolbox is an open-source toolbox for the calculation of quantitative MRI parameter maps from a series of weighted imaging data, and optionally additional calibration data. The multi-parameter mapping (MPM) protocol, incorporating calibration data to correct for spatial variation in the scanner's transmit and receive fields, is the most complete protocol that can be handled by the toolbox. Here we present a dataset acquired with such a full MPM protocol, which is made freely available to be used as a tutorial by following instructions provided on the associated toolbox wiki pages, which can be found at http://hMRI.info, and following the theory described in: hMRI – A toolbox for quantitative MRI in neuroscience and clinical research [1].
+- Keywords: hMRI; hMRI toolbox; qMRI; Quantitative MRI; Analysis tools; qMRI software

@@ -4,7 +4,7 @@ The data set is published in the context of the following article:
 
 [Callaghan, M. F., Lutti, A., Ashburner, J., Balteau, E., Corbin, N., Draganski, B., ... & Weiskopf, N. (2019). Example dataset for the hMRI toolbox. Data in brief, 25, 104132.](https://doi.org/10.1016/j.dib.2019.104132)
 
-which is published under a `CC BY 4.0` license.
+which is published under a [CC BY 4.0-Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 # Sample dataset (raw-data)
 A sample dataset is provided as reference and material for exploring the possibilities and functionalities of the hMRI-toolbox. The according acquisition protocol can be found in `hmri_sample_dataset_protocol_800um_64ch.pdf` in the

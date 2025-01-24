@@ -7,11 +7,15 @@ The data set is published in the context of the following article:
 which is published under a [CC BY 4.0-Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 # Sample dataset (raw-data)
-A sample dataset is provided as reference and material for exploring the possibilities and functionalities of the hMRI-toolbox. The according acquisition protocol can be found in `hmri_sample_dataset_protocol_800um_64ch.pdf` in the
+In the `raw-data` directory, a sample dataset is provided as reference data to explore the functionalities of the hMRI-toolbox. The corresponding acquisition protocol can be found in `hmri_sample_dataset_protocol_800um_64ch.pdf` in the
 `protocols` directory.
 
 # Example MRI protocols (protocols)
-Several example MRI protocols (standard MPM protocol using customised Siemens sequences, as well MPM protocol implemented using Siemens and Philips product sequences) as well as a setup (for Siemens 3T MRI) and usage tutorial. Please be aware that we provide these protocols and information without any warranty. They must be considered work-in-progress, possibly non-optimal protocols and information.
+In the `protocols` directory, the following are included:
+- several example MRI protocols: standard MPM protocol using customised Siemens sequences, as well as MPM protocol implemented using Siemens and Philips product sequences
+- setup for Siemens 3T MRI and a tutorial.
+
+Please be aware that we provide these protocols and information without any warranty. They must be considered work-in-progress, possibly non-optimal protocols and information.
 
 ### Siemens protocol with customized sequences:
 `MPM_protocol_customized_seq_SIEMENS.pdf`

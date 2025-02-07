@@ -1,5 +1,6 @@
 # Description
-The directories `protocols` and `raw-data` respectively contain the MRI settings and sample data for multi-parameter mapping (MPM) to be used with the hMRI-toolbox (http://hmri.info).  
+The directories `protocols` and `raw-data` respectively contain the MRI settings and sample data for multi-parameter mapping (MPM) protocol to be used with the hMRI-toolbox ([GitHub-repository](https://github.com/hMRI-group/hMRI-toolbox) | [hMRI-website](http://hmri.info) | [hMRI-toolbox-paper](https://doi.org/10.1016/j.neuroimage.2019.01.029)).  
+
 The data set is published in the context of the following article:
 
 [Callaghan, M. F., Lutti, A., Ashburner, J., Balteau, E., Corbin, N., Draganski, B., ... & Weiskopf, N. (2019). Example dataset for the hMRI toolbox. Data in brief, 25, 104132.](https://doi.org/10.1016/j.dib.2019.104132)

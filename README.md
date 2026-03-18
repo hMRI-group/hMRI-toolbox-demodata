@@ -3,7 +3,7 @@ The directories `protocols` and `raw-data` respectively contain the MRI settings
 
 The data set is published in the context of the following article:
 
-[Callaghan, M. F., Lutti, A., Ashburner, J., Balteau, E., Corbin, N., Draganski, B., ... & Weiskopf, N. (2019). Example dataset for the hMRI toolbox. Data in brief, 25, 104132.](https://doi.org/10.1016/j.dib.2019.104132)
+[Callaghan MF, Lutti A, Ashburner J, Balteau E, Corbin N, Draganski B, Helms G, Kherif F, Leutritz T, Mohammadi S, Phillips C, Reimer E, Ruthotto L, Seif M, Tabelow K, Ziegler G, Weiskopf N. Example dataset for the hMRI toolbox. Data Brief. 2019 Jun 11;25:104132. doi: 10.1016/j.dib.2019.104132. PMID: 31297422; PMCID: PMC6598837.](https://doi.org/10.1016/j.dib.2019.104132)
 
 which is published under a [CC BY 4.0-Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
